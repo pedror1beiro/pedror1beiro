@@ -27,12 +27,6 @@ I enjoy working where **embedded systems and software** meet, with a growing int
 
 ---
 
-### Projects
-
-- 🐝 [IoT Beehive Monitoring](https://github.com/pedror1beiro/bee-app-pesta) — ESP32 firmware, sensor integration and a full-stack monitoring application.
-- ⚙️ [CI/CD Pipeline](https://github.com/pedror1beiro/jenkins_test) — automated testing, container builds and deployment with Jenkins and Docker.
-- 🎓 [UniSphere](https://github.com/pedror1beiro/UniSphere) — a React and Firebase study dashboard for planning, goals and progress tracking.
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-goncalo-ribeiro/)
