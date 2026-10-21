@@ -35,3 +35,4 @@ I enjoy working where **embedded systems and software** meet, with a growing int
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-goncalo-ribeiro/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pedrogoncaloribeiro21@gmail.com)
